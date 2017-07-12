@@ -1,0 +1,11 @@
+table th {
+	text-align: center;
+}
+
+table td.number {
+	text-align: center;
+}
+
+.btn-tambah {
+	margin-top: -33px;
+}
